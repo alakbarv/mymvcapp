@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Microsoft.VisualStudio.TestPlatform.TestFramework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MyMVCAppUnitTest
 {
